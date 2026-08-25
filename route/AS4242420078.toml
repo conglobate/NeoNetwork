@@ -1,0 +1,9 @@
+["10.127.32.0/24"]
+type = "subnet"
+name = "TES286-NETWORK"
+description = "TES286's Network"
+
+["fd10:127:286::/48"]
+type = "subnet"
+name = "TES286-NETWORK"
+description = "TES286's Network"
