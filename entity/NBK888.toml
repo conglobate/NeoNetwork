@@ -1,0 +1,10 @@
+name = "NBK888"
+
+babel = ["zh-N", "en-2"]
+
+[contact]
+email = "chenruomu04@gmail.com"
+github = "nbk888"
+
+[persona]
+pgp = "D348982F7BF3DFB26830A59F53F2467B2AB51F53"

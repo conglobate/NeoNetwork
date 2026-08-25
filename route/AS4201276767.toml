@@ -1,0 +1,9 @@
+["10.127.67.0/24"]
+type = "subnet"
+name = "NBK888-NEO-IP4"
+description = "NBK888 NeoNetwork IPv4"
+
+["fd10:127:67::/48"]
+type = "subnet"
+name = "NBK888-NEO-IP6"
+description = "NBK888 NeoNetwork IPv6"
